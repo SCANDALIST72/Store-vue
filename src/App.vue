@@ -1,15 +1,18 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+ <div id="app" >
+  <v-main-wrapper/>
+ </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import vMainWrapper from './components/v-main-wrapper.vue'
+
 
 export default {
-  name: 'App',
+  name: 'app',
+
   components: {
-    HelloWorld
+   vMainWrapper
   }
 }
 </script>
@@ -23,4 +26,5 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+
 </style>

@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "image": "1.jpg",
+      "name": "table sumsung",
+      "article": "1",
+      "numbers": "62",
+      "avaliable": true
+    },
+    {
+      "image": "2.jpg",
+      "name": "smartphone xaomi",
+      "article": "2",
+      "numbers": "56",
+      "avaliable": true
+    },
+    {
+      "image": "3.jpg",
+      "name": "ssd sumsung",
+      "article": "3",
+      "numbers": "23",
+      "avaliable": true
+    },
+    {
+      "image": "4.jpg",
+      "name": "RAM sumsung 4gb",
+      "article": "4",
+      "numbers": "41",
+      "avaliable": true
+    },
+    {
+      "image": "5.jpg",
+      "name": "SSD Kingstone 240gb",
+      "article": "5",
+      "numbers": "43",
+      "avaliable": true
+    },
+    {
+      "image": "6.jpg",
+      "name": "amd radeonTM530 2gb",
+      "article": "6",
+      "numbers": "0",
+      "avaliable": false
+    }
+  ]
+}
